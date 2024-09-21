@@ -4,18 +4,20 @@
     "url": "https://pmx01t.therednet.de",
     "icon": "https://icons.duckduckgo.com/ip3/pmx01t.therednet.de.ico",
     "slug": "sgs-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 502,
-    "timeWeek": 495,
-    "timeMonth": 538,
-    "timeYear": 538,
-    "dailyMinutesDown": {}
+    "time": 568,
+    "timeDay": 684,
+    "timeWeek": 541,
+    "timeMonth": 568,
+    "timeYear": 568,
+    "dailyMinutesDown": {
+      "2024-09-21": 0
+    }
   },
   {
     "name": "Home Server",
