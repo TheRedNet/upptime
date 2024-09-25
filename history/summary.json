@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmx01t.therednet.de.ico",
     "slug": "sgs-server",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 569,
-    "timeDay": 722,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 563,
+    "timeDay": 477,
     "timeWeek": 582,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "timeMonth": 563,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2024-09-21": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 709,
-    "timeWeek": 545,
-    "timeMonth": 539,
-    "timeYear": 539,
+    "time": 535,
+    "timeDay": 476,
+    "timeWeek": 547,
+    "timeMonth": 535,
+    "timeYear": 535,
     "dailyMinutesDown": {}
   }
 ]
