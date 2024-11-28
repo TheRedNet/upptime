@@ -1,7 +1,7 @@
 url: https://proxmox.therednet.de
-status: down
-code: 530
-responseTime: 126
-lastUpdated: 2024-11-28T13:34:58.045Z
+status: up
+code: 200
+responseTime: 489
+lastUpdated: 2024-11-28T17:12:23.207Z
 startTime: 2024-09-12T21:36:48.663Z
 generator: Upptime <https://github.com/upptime/upptime>
