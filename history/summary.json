@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kuma.therednet.de.ico",
     "slug": "uptime-kuma",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
-    "time": 752,
-    "timeDay": 829,
-    "timeWeek": 821,
-    "timeMonth": 793,
-    "timeYear": 752,
+    "uptimeYear": "99.98%",
+    "time": 754,
+    "timeDay": 954,
+    "timeWeek": 888,
+    "timeMonth": 799,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2025-10-25": 33
     }
